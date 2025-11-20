@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=37BCF6&center=true&vCenter=true&width=435&lines=Hi,+I'm+Javier+Ruiz+Morales;BSc+Physics+@+UCM;Data+Science+%26+AI+Enthusiast;Mathematical+Modeling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=37BCF6&center=true&vCenter=true&width=435&lines=Javier+Ruiz+Morales;BSc+Physics+@+UCM;DS+%26+AI+enthusiast;" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <h3>🚀 Physicist with a strong interest in DS & AI</h3>
-  <p>Physics graduate from <b>UCM</b> (Universidad Complutense de Madrid). Currently focused on Data Science, Artificial Intelligence, and Mathematical Modeling.</p>
+  <p>Physics graduate from <b>UCM</b> (Universidad Complutense de Madrid). Currently focused on Data Science, AI, and mathematical modeling.</p>
 
   <a href="mailto:jarumo245@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 </p>
 
-#### 🐍 Python Arsenal
+#### 🐍 Python packages
 **Data Science & Machine Learning**
 <br>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
